@@ -11,7 +11,12 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-
+<ol>
+  <li>item1</li>
+  <li>item2</li>
+  <li>item3</li>
+  </ol>
+  
 <br>
 
 {% include 04-lists.md %}
