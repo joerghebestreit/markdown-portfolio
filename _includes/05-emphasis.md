@@ -1,0 +1,1 @@
+Write out some of _your **awesome** attributes,_ and use *emphasis* (like bold or italics) to identify keywords, programming languages, or skills. 
